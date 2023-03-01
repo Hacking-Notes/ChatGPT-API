@@ -1,4 +1,4 @@
-# ChatGPT API | Linux Terminal
+# ChatGPT API
 
 If you're interested in interacting with the ChatGPT API, then you might find this Python program useful. It's a simple program that's powered by OpenAI, and it's designed to let you communicate with ChatGPT using Python code. With this program, you can ask ChatGPT questions, get answers to your queries, and even generate text based on specific prompts. It's a great tool for anyone who wants to experiment with AI-powered chatbots or explore the capabilities of the OpenAI platform. So if you're ready to dive into the world of natural language processing, give this Python program a try!
 
