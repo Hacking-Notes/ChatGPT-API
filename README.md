@@ -19,3 +19,6 @@ To use this tool, simply run the following command in your terminal:
 ```
 python3 chatGPT.py
 ```
+## Credit
+
+- <a href="https://github.com/atomic14/command_line_chatgpt/blob/main/requirements.txt">atomic14</a>
